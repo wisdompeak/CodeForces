@@ -8,48 +8,6 @@
 
 using namespace std;
 
-
-string solution_easy(int n, vector<int>nums)
-{
-    int i=0;
-    int j=n-1;
-    int now = INT_MIN;
-    string s;
-    while (i<=j)
-    {
-        if (nums[i]<now && nums[j]<now) break;
-        else if (nums[i]<now && nums[j]>=now)
-        {
-            now = nums[j];
-            j--;
-            s+="R";
-        }
-        else if (nums[i]>=now && nums[j]<now)
-        {
-            now = nums[i];
-            i++;
-            s+="L";
-        }
-        else
-        {
-            if (nums[i]<nums[j])
-            {
-                now = nums[i];
-                i++;
-                s+="L";
-            }
-            else
-            {
-                now = nums[j];
-                j--;
-                s+="R";
-            }
-        }
-    }
-    return s;
-}
-
-
 string solution_hard(int n, vector<int>nums)
 {
     int i=0;
@@ -59,8 +17,10 @@ string solution_hard(int n, vector<int>nums)
     string s;
 
     while (i<=j)
-    {        
-        if (nums[i]<=now)
+    {   
+        if (nums[i]<=now && nums[j]<=now)
+            break;
+        else if (nums[i]<=now)
         {
             while (i<=j && nums[j]>now)
             {
@@ -70,8 +30,7 @@ string solution_hard(int n, vector<int>nums)
             }
             break;
         }
-
-        if (nums[j]<=now)
+        else if (nums[j]<=now)
         {
             while (i<=j && nums[i]>now)
             {
@@ -80,10 +39,7 @@ string solution_hard(int n, vector<int>nums)
                 i++;
             }
             break;
-        }
-
-        if (nums[i]<=now && nums[j]<=now)
-            break;
+        }        
 
         if (nums[i]<nums[j])
         {
