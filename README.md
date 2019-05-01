@@ -7,6 +7,7 @@
 ### [Round 555 Div3](https://codeforces.com/contest/1157)
 [C.Increasing-Subsequence](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/C.Increasing-Subsequence) (M+)   
 [D.N_Problems_During_K_Days](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/D.N_Problems_During_K_Days) (M+)   
+[F.Maximum-Balanced-Circle](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/F.Maximum-Balanced-Circle) (H+)   
 
 ### [Round 556 Div2](https://codeforces.com/contest/1150)
 [A.Stock_Arbitraging](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/A.Stock_Arbitraging)
