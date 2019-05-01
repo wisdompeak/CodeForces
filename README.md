@@ -10,7 +10,7 @@
 [F.Maximum-Balanced-Circle](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/F.Maximum-Balanced-Circle) (H+)   
 
 ### [Round 556 Div2](https://codeforces.com/contest/1150)
-[A.Stock_Arbitraging](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/A.Stock_Arbitraging)
+[A.Stock_Arbitraging](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/A.Stock_Arbitraging) (H-)   
 
 ### [Edu Round 63](https://codeforces.com/contest/1156)
-[B.Ugly-Pairs](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/B.Ugly-Pairs) (H-)   #greedy
+[B.Ugly-Pairs](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/B.Ugly-Pairs) (H-)   # greedy
