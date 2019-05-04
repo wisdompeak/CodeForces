@@ -15,3 +15,4 @@
 ### [Edu Round 64](https://codeforces.com/contest/1156)
 [B.Ugly-Pairs](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/B.Ugly-Pairs) (H-)     (#greedy)    
 [C.Match-Points](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/C.Match-Points) (H-)     (#greedy)    
+[D.0-1-Tree](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/D.0-1-Tree)    (#Union Find)
