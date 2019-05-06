@@ -1,4 +1,4 @@
-# CodeForce
+# CodeForces
 
 |Contest | Problem | Difficuilty  | Tags |
 | :------------|:------------ |:---------------:| :-----|
