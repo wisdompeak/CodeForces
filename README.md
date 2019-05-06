@@ -16,5 +16,6 @@
 ||[C.Match-Points](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/C.Match-Points)      | H- | greedy |
 ||[D.0-1-Tree](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/D.0-1-Tree) | H        |  union-find |
 | [Round 557 Div2](https://codeforces.com/contest/1162) ||||
+||[C.Hide-and-Seek](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/C.Hide-and-Seek)|M+|greedy|
 ||[D.Chladni-Figure](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/D.Chladni-Figure)|H|string|
 ||||
