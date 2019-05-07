@@ -8,18 +8,20 @@ int main() {
     cin>>n>>q>>s;
     
     int next[100003][26];
+
+    s = "#"+s;
            
     for (int j=0; j<26; j++)
     {
-        next[n+1][j] = n+2;
-        next[n+2][j] = n+2;
+        next[n][j] = n+1;
+        next[n+1][j] = n+1;
     }
         
-    for (int i=n; i>=1; i--)
+    for (int i=n-1; i>=0; i--)
     {
         for (int j=0; j<26; j++)
             next[i][j] = next[i+1][j];
-        next[i][s[i-1]-'a'] = i;
+        next[i][s[i+1]-'a'] = i+1;
     }
         
     int dp[251][251][251];
@@ -45,17 +47,17 @@ int main() {
                         if (i>0)
                         {
                             int prevStatus = dp[i-1][j][k];
-                            dp[i][j][k] = min(dp[i][j][k], next[prevStatus+1][str[1][i]]);                            
+                            dp[i][j][k] = min(dp[i][j][k], next[prevStatus][str[1][i]]);                            
                         }
                         if (j>0)
                         {
                             int prevStatus = dp[i][j-1][k];
-                            dp[i][j][k] = min(dp[i][j][k], next[prevStatus+1][str[2][j]]);                            
+                            dp[i][j][k] = min(dp[i][j][k], next[prevStatus][str[2][j]]);                            
                         }
                         if (k>0)
                         {
                             int prevStatus = dp[i][j][k-1];
-                            dp[i][j][k] = min(dp[i][j][k], next[prevStatus+1][str[3][k]]);                            
+                            dp[i][j][k] = min(dp[i][j][k], next[prevStatus][str[3][k]]);                            
                         }   
                         
                     }            
