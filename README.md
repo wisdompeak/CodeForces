@@ -11,6 +11,7 @@
 ||[F.Maximum-Balanced-Circle](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/F.Maximum-Balanced-Circle)|M+||
 | [Round 556 Div2](https://codeforces.com/contest/1150) ||||
 || [A.Stock_Arbitraging](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/A.Stock_Arbitraging) |H-|DP|
+||[D.Three-Religions](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/D.Three-Religions)|H|DP|
 | [Edu Round 64](https://codeforces.com/contest/1156) ||||
 ||[B.Ugly-Pairs](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/B.Ugly-Pairs)      | H- | greedy |
 ||[C.Match-Points](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/C.Match-Points)      | H- | greedy |
