@@ -19,4 +19,8 @@
 | [Round 557 Div2](https://codeforces.com/contest/1162) ||||
 |[1162C](https://codeforces.com/contest/1162/C)|[Hide-and-Seek](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/C.Hide-and-Seek)|M+|greedy|
 |[1162D](https://codeforces.com/contest/1162/D)|[Chladni-Figure](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/D.Chladni-Figure)|H|string|
+| [Round 559 Div2](https://codeforces.com/contest/1159) ||||
+|[1159C](https://codeforces.com/contest/1159/C)|[The-Party-and-Sweets](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/C.The-Party-and-Sweets)|H-|greedy|
 ||||
+
+
