@@ -21,6 +21,7 @@
 |[1162D](https://codeforces.com/contest/1162/D)|[Chladni-Figure](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/D.Chladni-Figure)|H|string|
 | [Round 559 Div2](https://codeforces.com/contest/1159) ||||
 |[1159C](https://codeforces.com/contest/1159/C)|[The-Party-and-Sweets](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/C.The-Party-and-Sweets)|H-|greedy|
+|[1159D](https://codeforces.com/contest/1159/D)|[The-minimal-unique-substring](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/D.The-minimal-unique-substring)|H|greedy, string|
 ||||
 
 
