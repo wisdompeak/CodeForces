@@ -22,6 +22,7 @@
 | [Round 559 Div2](https://codeforces.com/contest/1159) ||||
 |[1159C](https://codeforces.com/contest/1159/problem/C)|[The-Party-and-Sweets](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/C.The-Party-and-Sweets)|H-|greedy|
 |[1159D](https://codeforces.com/contest/1159/problem/D)|[The-minimal-unique-substring](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/D.The-minimal-unique-substring)|H|greedy, string|
+| [Round 560 Div3](https://codeforces.com/contest/1165) ||||
+|[1165E](https://codeforces.com/contest/1165/problem/E)|[Two-Arrays-and-Sum-of-Functions](https://github.com/wisdompeak/CodeForces/tree/master/Round_560_Div3/Two-Arrays-and-Sum-of-Functions)|M+|greedy|
 ||||
-
 
