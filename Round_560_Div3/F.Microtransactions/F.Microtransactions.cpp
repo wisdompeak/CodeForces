@@ -14,14 +14,14 @@ bool isOK(int l, vector<int>&need, unordered_map<int,vector<int>>&daySale)
     
     for (int i=l; i>=1; i--)
     {
-        if (money>i) money--;
+        money = min(money,i);
         
         for (auto item: daySale[i])
         {
-            int spend = min(money, need[item]-bought[item]);
-            money -= spend;
-            bought[item] += spend;
-            spent += spend;            
+            int buy = min(money, need[item]-bought[item]);
+            money -= buy;
+            bought[item] += buy;
+            spent += buy;            
         }        
     }    
     
