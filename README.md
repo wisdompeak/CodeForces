@@ -24,5 +24,6 @@
 |[1159D](https://codeforces.com/contest/1159/problem/D)|[The-minimal-unique-substring](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/D.The-minimal-unique-substring)|H|greedy, string|
 | [Round 560 Div3](https://codeforces.com/contest/1165) ||||
 |[1165E](https://codeforces.com/contest/1165/problem/E)|[Two-Arrays-and-Sum-of-Functions](https://github.com/wisdompeak/CodeForces/tree/master/Round_560_Div3/Two-Arrays-and-Sum-of-Functions)|M+|greedy|
+|[1165F](https://codeforces.com/contest/1165/problem/F)|[Microtransactions](https://github.com/wisdompeak/CodeForces/tree/master/Round_560_Div3/F.Microtransactions)|H|greedy, binary search|
 ||||
 
