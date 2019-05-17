@@ -26,6 +26,7 @@
 |[1165E](https://codeforces.com/contest/1165/problem/E)|[Two-Arrays-and-Sum-of-Functions](https://github.com/wisdompeak/CodeForces/tree/master/Round_560_Div3/Two-Arrays-and-Sum-of-Functions)|M+|greedy|
 |[1165F](https://codeforces.com/contest/1165/problem/F2)|[Microtransactions](https://github.com/wisdompeak/CodeForces/tree/master/Round_560_Div3/F.Microtransactions)|H|greedy, binary search|
 | [Edu_65 Div2](https://codeforces.com/contest/1167) ||||
+|[1167B](https://codeforces.com/contest/1167/problem/B)|[Lost-Numbers](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/B.Lost-Numbers)|M|math, hash|
 |[1167D](https://codeforces.com/contest/1167/problem/D)|[Bicolored-RBS](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/D.Bicolored-RBS)|M|greedy, string|
 ||||
 
