@@ -29,7 +29,7 @@
 |[1167B](https://codeforces.com/contest/1167/problem/B)|[Lost-Numbers](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/B.Lost-Numbers)|M|math, hash|
 |[1167D](https://codeforces.com/contest/1167/problem/D)|[Bicolored-RBS](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/D.Bicolored-RBS)|M|greedy, string|
 |[1167E](https://codeforces.com/contest/1167/problem/E)|[Range-Deleting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/E.Range-Deleting)|H+|greedy|
-| [Round_61 Div2](https://codeforces.com/contest/1166) ||||
+| [Round_561 Div2](https://codeforces.com/contest/1166) ||||
 |[1166E](https://codeforces.com/contest/1166/problem/E)|[The-LCMs-Must-be-Large](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/E.The-LCMs-Must-be-Large)|H|math, bit|
 ||||
 
