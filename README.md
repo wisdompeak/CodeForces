@@ -10,7 +10,7 @@
 |[1157D](https://codeforces.com/contest/1157/problem/D)|[N_Problems_During_K_Days](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/D.N_Problems_During_K_Days)|M+||
 |[1157F](https://codeforces.com/contest/1157/problem/F)|[Maximum-Balanced-Circle](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/F.Maximum-Balanced-Circle)|M+||
 | [Round 556 Div2](https://codeforces.com/contest/1150) ||||
-|[1150A](https://codeforces.com/contest/1150/problem/A)| [Stock_Arbitraging](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/A.Stock_Arbitraging) |H-|DP|
+|[1150A](https://codeforces.com/contest/1150/problem/A)| [Stock_Arbitraging](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/A.Stock_Arbitraging) |M|Greedy|
 |[1150D](https://codeforces.com/contest/1150/problem/D)|[Three-Religions](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/D.Three-Religions)|H|DP|
 | [Edu Round 64](https://codeforces.com/contest/1156) ||||
 |[1156C](https://codeforces.com/contest/1156/problem/B)|[Ugly-Pairs](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/B.Ugly-Pairs)      | H- | greedy |
