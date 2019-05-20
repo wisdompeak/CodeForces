@@ -1,8 +1,3 @@
-#include<bits/stdc++.h>
-#include <iostream>
-using namespace std;
-
-
 int main() {
     int n;
     vector<int>nums;
@@ -12,60 +7,65 @@ int main() {
     for (int i=0; i<n; i++)
         cin>>nums[i];
     
-    // n = 7;
-    // nums = {4, 3, 5, 1, 2, 2, 1};
-
     sort(nums.begin(),nums.end());
     
-    int start = 0;
-    int len = 0;
+    // n = 7;
+    // nums = {4, 3, 5, 1, 2, 2, 1};
     
-    for (int i=0; i<n; i++)
+    map<int,int>Map;
+    for (auto x:nums)
+        Map[x]++;
+    
+    vector<pair<int,int>>pairs;
+    for (auto a:Map)
+        pairs.push_back(a);
+    
+    int start = 0;
+    int maxLen = 0;
+    int duration;
+    for (int i=0; i<pairs.size(); )
     {
-        int i0 = i;
-        while (i<n && nums[i]==nums[i0])
-            i++;
+        int curLen = pairs[i].second;
+        int j = i+1;
+        int flag = 0;
         
-        int j = i;
-        int j0 = j;
-        while(j<n)
+        while (j<pairs.size() && pairs[j].first==pairs[j-1].first+1 && pairs[j].second>1)
         {
-            if (nums[j]-nums[j-1]>1) break;
-            j0 = j;
-            while (j<n && nums[j]==nums[j0])
-                j++;
-            if (j-j0<=1)
-                break;
+            curLen += pairs[j].second;
+            j++;
+        }        
+        
+        if (j<pairs.size() && pairs[j].first==pairs[j-1].first+1 && pairs[j].second==1)
+        {
+            curLen += 1;
+            j++;
+            flag = 1;
         }
         
-        if (j-i0>len)
+        if (curLen>maxLen)
         {
-            len = j-i0;
-            start = i0;
+            maxLen = curLen;
+            start = i;
+            duration = j-i;
         }
         
-        if (j-j0==1)
-            i = j0-1;
+        if (flag==0)
+            i = j;  
         else
             i = j-1;
-    }
+    }        
     
     vector<int>a;
     vector<int>b;
-    for (int i=start; i<start+len; i++)
-    {
-        int i0 = i;
-        while (i<start+len && nums[i]==nums[i0])
-            i++;
-        int count = i-i0;
-        a.push_back(nums[i0]);
-        for (int k=0; k<count-1; k++)
-            b.push_back(nums[i0]);
-        i--;
+    for (int i=start; i<start+duration; i++)
+    {                
+        a.push_back(pairs[i].first);
+        for (int k=0; k<pairs[i].second-1; k++)
+            b.push_back(pairs[i].first);        
     }
     
     reverse(b.begin(),b.end());
-    cout<<len<<endl;
+    cout<<maxLen<<endl;
     for (auto x:a)
         cout<<x<<" ";
     for (auto x:b)
