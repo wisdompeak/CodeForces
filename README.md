@@ -28,5 +28,6 @@
 | [Edu_65 Div2](https://codeforces.com/contest/1167) ||||
 |[1167B](https://codeforces.com/contest/1167/problem/B)|[Lost-Numbers](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/B.Lost-Numbers)|M|math, hash|
 |[1167D](https://codeforces.com/contest/1167/problem/D)|[Bicolored-RBS](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/D.Bicolored-RBS)|M|greedy, string|
+|[1167E](https://codeforces.com/contest/1167/problem/E)|[Range-Deleting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/E.Range-Deleting)|H+|greedy|
 ||||
 
