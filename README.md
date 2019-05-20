@@ -31,6 +31,6 @@
 |[1167E](https://codeforces.com/contest/1167/problem/E)|[Range-Deleting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_65/E.Range-Deleting)|H+|greedy|
 | [Round_561 Div2](https://codeforces.com/contest/1166) ||||
 |[1166B](https://codeforces.com/contest/1166/problem/B)|[All-the-Vowels-Please](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/B.All-the-Vowels-Please)|M|math|
+|[1166C](https://codeforces.com/contest/1166/problem/C)|[A-Tale-of-Two-Lands](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/C.A-Tale-of-Two-Lands)|H|math, two pointers|
 |[1166E](https://codeforces.com/contest/1166/problem/E)|[The-LCMs-Must-be-Large](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/E.The-LCMs-Must-be-Large)|H|math, bit|
 ||||
-
