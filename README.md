@@ -8,7 +8,7 @@
 | [Round 555 Div3](https://codeforces.com/contest/1157) ||||
 |[1157C](https://codeforces.com/contest/1157/problem/C2)|[Increasing-Subsequence](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/C.Increasing-Subsequence)|M+||
 |[1157D](https://codeforces.com/contest/1157/problem/D)|[N_Problems_During_K_Days](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/D.N_Problems_During_K_Days)|M+||
-|[1157F](https://codeforces.com/contest/1157/problem/F)|[Maximum-Balanced-Circle](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/F.Maximum-Balanced-Circle)|M+||
+|[1157F](https://codeforces.com/contest/1157/problem/F)|[Maximum-Balanced-Circle](https://github.com/wisdompeak/CodeForces/tree/master/Round_555_Div3/F.Maximum-Balanced-Circle)|H-||
 | [Round 556 Div2](https://codeforces.com/contest/1150) ||||
 |[1150A](https://codeforces.com/contest/1150/problem/A)| [Stock_Arbitraging](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/A.Stock_Arbitraging) |M|Greedy|
 |[1150D](https://codeforces.com/contest/1150/problem/D)|[Three-Religions](https://github.com/wisdompeak/CodeForces/tree/master/Round_556_Div2/D.Three-Religions)|H|DP|
