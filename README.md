@@ -18,7 +18,7 @@
 |[1156D](https://codeforces.com/contest/1156/problem/D)|[0-1-Tree](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_64/D.0-1-Tree) | H        |  union-find |
 | [Round 557 Div2](https://codeforces.com/contest/1162) ||||
 |[1162C](https://codeforces.com/contest/1162/problem/C)|[Hide-and-Seek](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/C.Hide-and-Seek)|M+|greedy|
-|[1162D](https://codeforces.com/contest/1162/problem/D)|[Chladni-Figure](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/D.Chladni-Figure)|H|string|
+|[1162D](https://codeforces.com/contest/1162/problem/D)|[Chladni-Figure](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/D.Chladni-Figure)|H|string, KMP|
 | [Round 558 Div2](https://codeforces.com/contest/1163) ||||
 |[1163B](https://codeforces.com/contest/1163/problem/B2)|[Cat-Party](https://github.com/wisdompeak/CodeForces/tree/master/Round_558_Div2/B.Cat-Party)|M+|Hash|
 |[1163C](https://codeforces.com/contest/1163/problem/C2)|[Power-Transmission](https://github.com/wisdompeak/CodeForces/tree/master/Round_558_Div2/C.Power-Transmission)|H-|Hash|
