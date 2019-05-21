@@ -19,6 +19,9 @@
 | [Round 557 Div2](https://codeforces.com/contest/1162) ||||
 |[1162C](https://codeforces.com/contest/1162/problem/C)|[Hide-and-Seek](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/C.Hide-and-Seek)|M+|greedy|
 |[1162D](https://codeforces.com/contest/1162/problem/D)|[Chladni-Figure](https://github.com/wisdompeak/CodeForces/tree/master/Round_557_Div2/D.Chladni-Figure)|H|string|
+| [Round 558 Div2](https://codeforces.com/contest/1163) ||||
+|[1163B](https://codeforces.com/contest/1163/problem/B2)|[Cat-Party](https://github.com/wisdompeak/CodeForces/tree/master/Round_558_Div2/B.Cat-Party)|M+|Hash|
+|[1163C](https://codeforces.com/contest/1163/problem/C2)|[Power-Transmission](https://github.com/wisdompeak/CodeForces/tree/master/Round_558_Div2/C.Power-Transmission)|H-|Hash|
 | [Round 559 Div2](https://codeforces.com/contest/1159) ||||
 |[1159C](https://codeforces.com/contest/1159/problem/C)|[The-Party-and-Sweets](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/C.The-Party-and-Sweets)|H-|greedy|
 |[1159D](https://codeforces.com/contest/1159/problem/D)|[The-minimal-unique-substring](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/D.The-minimal-unique-substring)|H|greedy, string|
@@ -35,3 +38,4 @@
 |[1166D](https://codeforces.com/contest/1166/problem/D)|[Cute-Sequences](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/D.Cute-Sequences)|H|math, binary search|
 |[1166E](https://codeforces.com/contest/1166/problem/E)|[The-LCMs-Must-be-Large](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/E.The-LCMs-Must-be-Large)|H|math, bit|
 ||||
+
