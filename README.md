@@ -22,6 +22,7 @@
 | [Round 558 Div2](https://codeforces.com/contest/1163) ||||
 |[1163B](https://codeforces.com/contest/1163/problem/B2)|[Cat-Party](https://github.com/wisdompeak/CodeForces/tree/master/Round_558_Div2/B.Cat-Party)|M+|Hash|
 |[1163C](https://codeforces.com/contest/1163/problem/C2)|[Power-Transmission](https://github.com/wisdompeak/CodeForces/tree/master/Round_558_Div2/C.Power-Transmission)|H-|Hash|
+|[1163D](https://codeforces.com/contest/1163/problem/D)|[Mysterious-Code](https://github.com/wisdompeak/CodeForces/tree/master/Round_558_Div2/D.Mysterious-Code)|H+|DP, KMP|
 | [Round 559 Div2](https://codeforces.com/contest/1159) ||||
 |[1159C](https://codeforces.com/contest/1159/problem/C)|[The-Party-and-Sweets](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/C.The-Party-and-Sweets)|H-|greedy|
 |[1159D](https://codeforces.com/contest/1159/problem/D)|[The-minimal-unique-substring](https://github.com/wisdompeak/CodeForces/tree/master/Round_559_Div2/D.The-minimal-unique-substring)|H|greedy, string|
