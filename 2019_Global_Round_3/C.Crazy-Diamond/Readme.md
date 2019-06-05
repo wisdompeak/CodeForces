@@ -20,17 +20,17 @@ swap(p[j],p[b])
     {
         a=n-1 与 i 配对;
         b=1 与 j 配对;
-        通过a,b实现swap(p[i],p[j])
+        通过a,b,五步实现swap(p[i],p[j])
     }
     else if (j<=n/2)
     {
         b=n-1;
-        通过b实现swap(p[i],p[j])
+        借助b，三步实现swap(p[i],p[j])
     }
     else if (i>n/2)
     {
         b=1;
-        通过b实现swap(p[i],p[j])
+        借助b，三步实现swap(p[i],p[j])
     }
 ```
 
