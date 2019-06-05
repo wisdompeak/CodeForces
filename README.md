@@ -41,7 +41,6 @@
 | [Global Round 3](https://codeforces.com/contest/1148) ||||
 |[1148B](https://codeforces.com/contest/1148/problem/B)|[Born-This-Way](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/B.Born-This-Way)|H-|Greedy|
 |[1148C](https://codeforces.com/contest/1148/problem/C)|[Crazy-Diamond](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/C.Crazy-Diamond)|H-|Greedy|
-|[1148D](https://codeforces.com/contest/1148/problem/D)|[Dirty-Deeds-Done-Dirt-Cheap](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/D.Dirty-Deeds-Done-Dirt-Cheap
-)|H-|Greedy|
+|[1148D](https://codeforces.com/contest/1148/problem/D)|[Dirty-Deeds-Done-Dirt-Cheap](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/D.Dirty-Deeds-Done-Dirt-Cheap)|H-|Greedy|
 ||||
 
