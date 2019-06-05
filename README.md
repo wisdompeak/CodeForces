@@ -38,5 +38,7 @@
 |[1166C](https://codeforces.com/contest/1166/problem/C)|[A-Tale-of-Two-Lands](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/C.A-Tale-of-Two-Lands)|H|math, two pointers|
 |[1166D](https://codeforces.com/contest/1166/problem/D)|[Cute-Sequences](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/D.Cute-Sequences)|H|math, binary search|
 |[1166E](https://codeforces.com/contest/1166/problem/E)|[The-LCMs-Must-be-Large](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/E.The-LCMs-Must-be-Large)|H|math, bit|
+| [Global Round 3](https://codeforces.com/contest/1148) ||||
+|[1148B](https://codeforces.com/contest/1148/problem/B)|[Born-This-Way](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/B.All-the-Vowels-Please)|H-|Greedy|
 ||||
 
