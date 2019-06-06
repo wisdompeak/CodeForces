@@ -39,11 +39,11 @@
 |[1166D](https://codeforces.com/contest/1166/problem/D)|[Cute-Sequences](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/D.Cute-Sequences)|H|math, binary search|
 |[1166E](https://codeforces.com/contest/1166/problem/E)|[The-LCMs-Must-be-Large](https://github.com/wisdompeak/CodeForces/tree/master/Round_561_Div2/E.The-LCMs-Must-be-Large)|H|math, bit|
 | [Global Round 3](https://codeforces.com/contest/1148) ||||
-|[1148B](https://codeforces.com/contest/1148/problem/B)|[Born-This-Way](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/B.Born-This-Way)|H-|Greedy|
-|[1148C](https://codeforces.com/contest/1148/problem/C)|[Crazy-Diamond](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/C.Crazy-Diamond)|H-|Greedy|
-|[1148D](https://codeforces.com/contest/1148/problem/D)|[Dirty-Deeds-Done-Dirt-Cheap](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/D.Dirty-Deeds-Done-Dirt-Cheap)|H-|Greedy|
+|[1148B](https://codeforces.com/contest/1148/problem/B)|[Born-This-Way](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/B.Born-This-Way)|H-|greedy|
+|[1148C](https://codeforces.com/contest/1148/problem/C)|[Crazy-Diamond](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/C.Crazy-Diamond)|H-|greedy|
+|[1148D](https://codeforces.com/contest/1148/problem/D)|[Dirty-Deeds-Done-Dirt-Cheap](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/D.Dirty-Deeds-Done-Dirt-Cheap)|H-|greedy|
 | [Edu_66 Div2](https://codeforces.com/contest/115) ||||
-|[1175C](https://codeforces.com/contest/1175/problem/C)|[Electrification](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/C.Electrification)|M+|Two Pointers|
+|[1175C](https://codeforces.com/contest/1175/problem/C)|[Electrification](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/C.Electrification)|M+|two pointers|
 |[1175D](https://codeforces.com/contest/1175/problem/D)|[D.Array-Splitting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/D.Array-Splitting)|H-|math|
 ||||
 
