@@ -4,25 +4,38 @@ using namespace std;
 typedef long long ll;
 
 int main() {
+    int T;
+    cin>>T;
     
-    ll n,k;
-    cin>>n>>k;
-       
-    vector<ll>cumSum(n+1,0);
-    for (int i=1; i<=n; i++)
+    for (int t=0; t<T; t++)
     {
+        ll n, k;
+        cin>>n>>k;
+        
+        vector<ll>q(n);
+        for (int i=0; i<n; i++)
+            cin>>q[i];
+        
+        k++;
+        
+        if (k==1)
+        {
+            cout<<q[0]<<endl;
+            continue;
+        }
+            
+        ll len = INT_MAX;
         ll x;
-        cin>>x;
-        cumSum[i] = cumSum[i-1]+x;
+        for (int i=k-1; i<n; i++)
+        {
+            if (q[i]-q[i-k+1]<len)
+            {
+                len = q[i]-q[i-k+1];
+                x = (q[i]+q[i-k+1])/2;
+            }
+        }
+        
+        cout<<x<<endl;
     }
     
-    ll result = cumSum[n]*k;
-    
-    sort(cumSum.begin()+1,cumSum.end()-1);
-    
-    for (int i=1; i<=k-1; i++)    
-        result -= cumSum[i];
-        
-    cout<<result<<endl;
-
 }
