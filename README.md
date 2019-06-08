@@ -44,6 +44,6 @@
 |[1148D](https://codeforces.com/contest/1148/problem/D)|[Dirty-Deeds-Done-Dirt-Cheap](https://github.com/wisdompeak/CodeForces/tree/master/2019_Global_Round_3/D.Dirty-Deeds-Done-Dirt-Cheap)|H-|greedy|
 | [Edu_66 Div2](https://codeforces.com/contest/115) ||||
 |[1175C](https://codeforces.com/contest/1175/problem/C)|[Electrification](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/C.Electrification)|M+|two pointers|
-|[1175D](https://codeforces.com/contest/1175/problem/D)|[D.Array-Splitting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/D.Array-Splitting)|H-|math|
+|[1175D](https://codeforces.com/contest/1175/problem/D)|[Array-Splitting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/D.Array-Splitting)|H-|math|
 ||||
 
