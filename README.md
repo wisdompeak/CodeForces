@@ -45,6 +45,7 @@
 | [Edu_66 Div2](https://codeforces.com/contest/1175) ||||
 |[1175C](https://codeforces.com/contest/1175/problem/C)|[Electrification](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/C.Electrification)|M+|two pointers|
 |[1175D](https://codeforces.com/contest/1175/problem/D)|[Array-Splitting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/D.Array-Splitting)|H-|math|
+|[1175E](https://codeforces.com/contest/1175/problem/E)|[Minimal-Segment-Cover](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_66/E.Minimal-Segment-Cover)|H|greedy, binary search|
 | [Round_564_Div2](https://codeforces.com/contest/1173) ||||
 |[1173C](https://codeforces.com/contest/1173/problem/C)|[Nauuo-and-Cards](https://github.com/wisdompeak/CodeForces/tree/master/Round_564_Div2/C.Nauuo-and-Cards)|H|greedy|
 |[1173D](https://codeforces.com/contest/1173/problem/D)|[Nauuo-and-Circle](https://github.com/wisdompeak/CodeForces/tree/master/Round_564_Div2/D.Nauuo-and-Circle)|H|geometry, combinations|
