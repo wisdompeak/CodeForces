@@ -49,6 +49,10 @@
 | [Round_564_Div2](https://codeforces.com/contest/1173) ||||
 |[1173C](https://codeforces.com/contest/1173/problem/C)|[Nauuo-and-Cards](https://github.com/wisdompeak/CodeForces/tree/master/Round_564_Div2/C.Nauuo-and-Cards)|H|greedy|
 |[1173D](https://codeforces.com/contest/1173/problem/D)|[Nauuo-and-Circle](https://github.com/wisdompeak/CodeForces/tree/master/Round_564_Div2/D.Nauuo-and-Circle)|H|geometry, combinations|
+| [Round_562_Div2](https://codeforces.com/contest/1169) ||||
+|[1169B](https://codeforces.com/contest/1169/problem/B)|[Pairs](https://github.com/wisdompeak/CodeForces/tree/master/Round_562_Div2/B.Pairs)|H-|recursion|
+|[1169C](https://codeforces.com/contest/1169/problem/C)|[Increasing-by-Modulo](https://github.com/wisdompeak/CodeForces/tree/master/Round_562_Div2/C.Increasing-by-Modulo)|H-|greedy, binary search|
+|[1169D](https://codeforces.com/contest/1169/problem/D)|[Good-Triple](https://github.com/wisdompeak/CodeForces/tree/master/Round_562_Div2/D.Good-Triple)|H|string, greedy|
 ||||
 
 
