@@ -54,6 +54,8 @@
 |[1169C](https://codeforces.com/contest/1169/problem/C)|[Increasing-by-Modulo](https://github.com/wisdompeak/CodeForces/tree/master/Round_562_Div2/C.Increasing-by-Modulo)|H-|greedy, binary search|
 |[1169D](https://codeforces.com/contest/1169/problem/D)|[Good-Triple](https://github.com/wisdompeak/CodeForces/tree/master/Round_562_Div2/D.Good-Triple)|H|string, greedy|
 |[1169E](https://codeforces.com/contest/1169/problem/E)|[And-Reachability](https://github.com/wisdompeak/CodeForces/tree/master/Round_562_Div2/E.And-Reachability)|H|DP|
+| [Edu_67 Div2](https://codeforces.com/contest/1187) ||||
+|[1187E](https://codeforces.com/contest/1187/problem/E)|[Tree-Painting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_67/E.Tree-Painting)|H|graph, tree|
 ||||
 
 
