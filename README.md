@@ -57,5 +57,6 @@
 | [Edu_67 Div2](https://codeforces.com/contest/1187) ||||
 |[1187D](https://codeforces.com/contest/1187/problem/D)|[Subarray-Sorting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_67/D.Subarray-Sorting)|H+|greedy, BIT|
 |[1187E](https://codeforces.com/contest/1187/problem/E)|[Tree-Painting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_67/E.Tree-Painting)|H|graph, tree|
+| [Round_581_Div2](https://codeforces.com/contest/1204) ||||
 |[1204D](https://codeforces.com/contest/1204/problem/D2)|[Kirk-and-a-Binary-String](https://github.com/wisdompeak/CodeForces/tree/master/Round_581_Div2/D.Kirk-and-a-Binary-String)|H|greedy, string|
 ||||
