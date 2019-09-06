@@ -62,7 +62,7 @@
 |[1187E](https://codeforces.com/contest/1187/problem/E)|[Tree-Painting](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_67/E.Tree-Painting)|H|graph, tree|
 | [Round_581_Div2](https://codeforces.com/contest/1204) ||||
 |[1204D](https://codeforces.com/contest/1204/problem/D2)|[Kirk-and-a-Binary-String](https://github.com/wisdompeak/CodeForces/tree/master/Round_581_Div2/D.Kirk-and-a-Binary-String)|H|greedy, string|
-| [Round_581_Div2](https://codeforces.com/contest/1204) ||||
+| [Edu_Round_72](https://codeforces.com/contest/1204) ||||
 |[1217B](https://codeforces.com/contest/1217/problem/B)|[Zmei-Gorynich](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_72/B.Zmei-Gorynich)|M|math|
 |[1217C](https://codeforces.com/contest/1217/problem/C)|[The-Number-Of-Good-Substrings](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_72/C.The-Number-Of-Good-Substrings)|M+|greedy|
 ||||
