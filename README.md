@@ -65,4 +65,5 @@
 | [Edu_Round_72](https://codeforces.com/contest/1204) ||||
 |[1217B](https://codeforces.com/contest/1217/problem/B)|[Zmei-Gorynich](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_72/B.Zmei-Gorynich)|M|math|
 |[1217C](https://codeforces.com/contest/1217/problem/C)|[The-Number-Of-Good-Substrings](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_72/C.The-Number-Of-Good-Substrings)|M+|greedy|
+|[1217D](https://codeforces.com/contest/1217/problem/D)|[Coloring-Edges](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_72/D.Coloring-Edges)|H|dfs, graph|
 ||||
