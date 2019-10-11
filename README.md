@@ -71,4 +71,6 @@
 |[1221D](https://codeforces.com/contest/1221/problem/D)|[Make-The-Fence-Great-Again](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_73/D.Make-The-Fence-Great-Again)|H-|dp|
 | [Round_587_Div3](https://codeforces.com/contest/1216) ||||
 |[1216C](https://codeforces.com/contest/1216/problem/C)|[White-Sheet](https://github.com/wisdompeak/CodeForces/tree/master/Round_587_Div3/C.White-Sheet)|M+|math|
+| [Forethought](https://codeforces.com/contest/1146) ||||
+|[1146C](https://codeforces.com/contest/1146/problem/C)|[Tree-Diameter](https://github.com/wisdompeak/CodeForces/tree/master/Forethought_Cup/C.Tree-Diameter)|H-|graph, recursive|
 ||||
