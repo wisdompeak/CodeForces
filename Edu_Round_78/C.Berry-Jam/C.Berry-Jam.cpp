@@ -13,7 +13,6 @@ ll solve()
     for (int i=0; i<n; i++)
         cin>>q[i];
     
-    //cout<<"OK"<<endl;
     int diff = 0;
     unordered_map<int,int>Map;
     Map[0]=0;
@@ -25,7 +24,6 @@ ll solve()
             diff--;
         Map[diff] = i+1;
     }
-    //cout<<"OK"<<endl;
     
     int ret = n + n-Map[0];
     diff = 0;    
@@ -56,4 +54,3 @@ int main() {
         cout<<x<<endl;
     }        
 }
-Click to see test details
