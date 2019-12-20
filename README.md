@@ -73,4 +73,7 @@
 |[1216C](https://codeforces.com/contest/1216/problem/C)|[White-Sheet](https://github.com/wisdompeak/CodeForces/tree/master/Round_587_Div3/C.White-Sheet)|M+|math|
 | [Forethought](https://codeforces.com/contest/1146) ||||
 |[1146C](https://codeforces.com/contest/1146/problem/C)|[Tree-Diameter](https://github.com/wisdompeak/CodeForces/tree/master/Forethought_Cup/C.Tree-Diameter)|H-|graph, recursive|
+| [Edu_Round_78](https://codeforces.com/contest/1278) ||||
+|[1278C](https://codeforces.com/contest/1278/problem/C)|[Berry-Jam](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_78/C.Berry-Jam)|M|Hash|
+|[1278D](https://codeforces.com/contest/1278/problem/D)|[Segment-Tree](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_78/D.Segment-Tree)|M+|greedy, Heap|
 ||||
