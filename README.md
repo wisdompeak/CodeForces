@@ -76,4 +76,6 @@
 | [Edu_Round_78](https://codeforces.com/contest/1278) ||||
 |[1278C](https://codeforces.com/contest/1278/problem/C)|[Berry-Jam](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_78/C.Berry-Jam)|M|Hash|
 |[1278D](https://codeforces.com/contest/1278/problem/D)|[Segment-Tree](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_78/D.Segment-Tree)|M+|greedy, Heap|
+| [Round_78_Div2](https://codeforces.com/contest/1282) ||||
+|[1282B](https://codeforces.com/contest/1282/problem/B2)|[K-for-the-Price-of-One](https://github.com/wisdompeak/CodeForces/tree/master/Round_610_Div2/B.K-for-the-Price-of-One)|H-|greedy|
 ||||
