@@ -78,4 +78,5 @@
 |[1278D](https://codeforces.com/contest/1278/problem/D)|[Segment-Tree](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_78/D.Segment-Tree)|M+|greedy, Heap|
 | [Round_78_Div2](https://codeforces.com/contest/1282) ||||
 |[1282B](https://codeforces.com/contest/1282/problem/B2)|[K-for-the-Price-of-One](https://github.com/wisdompeak/CodeForces/tree/master/Round_610_Div2/B.K-for-the-Price-of-One)|H-|greedy|
+|[1282C](https://codeforces.com/contest/1282/problem/C)|[Petya-and-Exam](https://github.com/wisdompeak/CodeForces/tree/master/Round_610_Div2/C.Petya-and-Exam)|H-|greedy|
 ||||
