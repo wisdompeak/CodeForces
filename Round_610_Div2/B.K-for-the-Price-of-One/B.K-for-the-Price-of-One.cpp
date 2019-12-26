@@ -3,17 +3,6 @@
 using namespace std;
 #define ll long long
 
-bool OK(vector<int>&a, int i, int p, int k)
-{
-    while (i>=k-1 && p>=a[i])
-    {
-        p-=a[i];
-        i-=k;
-    }
-    return (i<0 && p>=0)||(i==0 && p>=a[0]);
-}
-
-
 int solve()
 {
     int n,p,k;
