@@ -81,4 +81,6 @@
 |[1282C](https://codeforces.com/contest/1282/problem/C)|[Petya-and-Exam](https://github.com/wisdompeak/CodeForces/tree/master/Round_610_Div2/C.Petya-and-Exam)|H-|greedy|
 | [Edu_Round_79](https://codeforces.com/contest/1279) ||||
 |[1279D](https://codeforces.com/contest/1279/problem/D)|[Santa's-Bot](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_79/D.Santa's-Bot)|M+|math, probability|
+| [Goodbye-2019](https://codeforces.com/contest/1270) ||||
+|[1270C](https://codeforces.com/contest/1270/problem/C)|[Make-Good](https://github.com/wisdompeak/CodeForces/tree/master/Good-Bye-2019/C.Make-Good)|H-|math|
 ||||
