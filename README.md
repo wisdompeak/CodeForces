@@ -84,4 +84,6 @@
 | [Goodbye-2019](https://codeforces.com/contest/1270) ||||
 |[1270C](https://codeforces.com/contest/1270/problem/C)|[Make-Good](https://github.com/wisdompeak/CodeForces/tree/master/Good-Bye-2019/C.Make-Good)|H-|math|
 |[1270D](https://codeforces.com/contest/1270/problem/D)|[Strange-Device](https://github.com/wisdompeak/CodeForces/tree/master/Good-Bye-2019/D.Strange-Device)|M+|math|
+| [Round_611_Div3](https://codeforces.com/contest/1283) ||||
+|[1283C](https://codeforces.com/contest/1283/problem/C)|[Friends-and-Gifts](https://github.com/wisdompeak/CodeForces/tree/master/Round_611_Div3/C.Friends-and-Gifts)|M|math|
 ||||
