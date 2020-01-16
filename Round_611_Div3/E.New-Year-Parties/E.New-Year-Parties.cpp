@@ -18,8 +18,7 @@ int main()
     dp[0][0] = dp[0][1] = dp[0][2] = 1;
     
     for (int i=1; i<n; i++)
-    {
-        int mn = min(min(dp[i-1][0],dp[i-1][1]),dp[i-1][2]);
+    {        
         for (int k=-1; k<=1; k++)
         {
             if (p[i]+k==p[i-1]-1)
@@ -29,7 +28,7 @@ int main()
             else if (p[i]+k==p[i-1]+1)
                 dp[i][k+1] = dp[i-1][2];
             else
-                dp[i][k+1] = mn+1;
+                dp[i][k+1] = dp[i-1][0]+1;
         }
     }
     
