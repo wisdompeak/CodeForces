@@ -26,10 +26,10 @@ int main()
     }
     
     int ret = 0;
-    for (int i=1; i<=n; i++)
+    for (int x=1; x<=n; x++)
     {
-        for (int j=i; j<=n; j++)
-            ret = (ret+(dp[m][i]*dp[m][n-j+1])%MOD)%MOD;
+        for (int y=i; y<=n; y++)
+            ret = (ret+(dp[m][x]*dp[m][n-y+1])%MOD)%MOD;
     }
     
     cout<<ret<<endl;        
