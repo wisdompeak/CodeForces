@@ -13,15 +13,15 @@ int main()
     int MOD = 1e9+7;
     
     auto dp = vector<vector<ll>>(m+1,vector<ll>(n+1,0));
-    for (int k = 1; k<=n; k++)
-        dp[1][k] = 1;
+    for (int x = 1; x <= n; x++)
+        dp[1][x] = 1;
     for (int i=2; i<=m; i++)
     {
         ll sum = 0;
-        for (int k=1; k<=n; k++)
+        for (int x=1; x<=n; x++)
         {
-            sum = (sum + dp[i-1][k])%MOD;
-            dp[i][k] = sum;
+            sum = (sum + dp[i-1][x])%MOD;
+            dp[i][x] = sum;
         }
     }
     
