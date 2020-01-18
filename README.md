@@ -88,4 +88,6 @@
 |[1283C](https://codeforces.com/contest/1283/problem/C)|[Friends-and-Gifts](https://github.com/wisdompeak/CodeForces/tree/master/Round_611_Div3/C.Friends-and-Gifts)|M|math|
 |[1283D](https://codeforces.com/contest/1283/problem/D)|[Christmas-Trees](https://github.com/wisdompeak/CodeForces/tree/master/Round_611_Div3/D.Christmas-Trees)|M+|BFS|
 |[1283E](https://codeforces.com/contest/1283/problem/E)|[New-Year-Parties](https://github.com/wisdompeak/CodeForces/tree/master/Round_611_Div3/E.New-Year-Parties)|M+|greedy|
+| [Edu_Round_80](https://codeforces.com/contest/1288) ||||
+|[1288C](https://codeforces.com/contest/1288/problem/C)|[Two-Arrays](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_80/C.Two-Arrays)|H-|math, dp|
 ||||
