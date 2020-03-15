@@ -12,4 +12,4 @@ dp[node] = node->val==0?1:-1 + sum of { max(0, dp[next]) } over all next nodes.
 dp[cur] = dp[cur] - max(0, dp[next])
 dp[next] = dp[next] + max(0, dp[cur])
 ```
-因此在新的根（也就是next）的视角下，ret[next] = max(0, dp[next])。
+因此在新的根（也就是next）的视角下，ret[next] 等于这个更新后的dp[next]。需要注意这个dfs的过程中对dp的变动在回溯时需要恢复。
