@@ -96,4 +96,6 @@
 |[1324F](https://codeforces.com/contest/1324/problem/F)|[Maximum-White-Subtree](https://github.com/wisdompeak/CodeForces/tree/master/Round_627_Div3/F.Maximum-White-Subtree)|H-|dfs,graph|
 | [Round_622 Div2](https://codeforces.com/contest/1313) ||||
 |[1313C](https://codeforces.com/contest/1313/problem/C2)|[Skyscrapers](https://github.com/wisdompeak/CodeForces/tree/master/Round_622_Div2/C.Skyscrapers)|H-|stack,dp|
+| [Round_626 Div2](https://codeforces.com/contest/1323) ||||
+|[1323B](https://codeforces.com/contest/1323/problem/B)|[Count-Subrectangles](https://github.com/wisdompeak/CodeForces/tree/master/Round_626_Div2/B.Count-Subrectangles)|M+|Math|
 ||||
