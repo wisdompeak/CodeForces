@@ -97,5 +97,8 @@
 | [Round_622 Div2](https://codeforces.com/contest/1313) ||||
 |[1313C](https://codeforces.com/contest/1313/problem/C2)|[Skyscrapers](https://github.com/wisdompeak/CodeForces/tree/master/Round_622_Div2/C.Skyscrapers)|H-|stack,dp|
 | [Round_626 Div2](https://codeforces.com/contest/1323) ||||
-|[1323B](https://codeforces.com/contest/1323/problem/B)|[Count-Subrectangles](https://github.com/wisdompeak/CodeForces/tree/master/Round_626_Div2/B.Count-Subrectangles)|M+|Math|
+|[1323B](https://codeforces.com/contest/1323/problem/B)|[Count-Subrectangles](https://github.com/wisdompeak/CodeForces/tree/master/Round_626_Div2/B.Count-Subrectangles)|M+|math|
+| [Edu_Round_85](https://codeforces.com/contest/1334) ||||
+|[1334C](https://codeforces.com/contest/1334/problem/C)|[Circle-of-Monsters](https://github.com/wisdompeak/CodeForces/tree/master/Edi_Round_82/C.Circle-of-Monsters)|M+|math,greedy|
 ||||
+
