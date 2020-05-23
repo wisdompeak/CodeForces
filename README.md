@@ -100,5 +100,8 @@
 |[1323B](https://codeforces.com/contest/1323/problem/B)|[Count-Subrectangles](https://github.com/wisdompeak/CodeForces/tree/master/Round_626_Div2/B.Count-Subrectangles)|M+|math|
 | [Edu_Round_85](https://codeforces.com/contest/1334) ||||
 |[1334C](https://codeforces.com/contest/1334/problem/C)|[Circle-of-Monsters](https://github.com/wisdompeak/CodeForces/tree/master/Edu_Round_85/C.Circle-of-Monsters)|M+|math,greedy|
+| [Round_617_Div3](https://codeforces.com/contest/1296) ||||
+|[1296D](https://codeforces.com/contest/1296/problem/D)|[Fight-with-Monsters](https://github.com/wisdompeak/CodeForces/tree/master/Round_617_Div3/D.Fight-with-Monsters)|M+|math,greedy|
+|[1296E1](https://codeforces.com/contest/1296/problem/E1)|[String-Coloring](https://github.com/wisdompeak/CodeForces/tree/master/Round_617_Div3/E1.String-Coloring)|M+|greedy|
 ||||
 
