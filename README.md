@@ -105,5 +105,6 @@
 | [Round_617_Div3](https://codeforces.com/contest/1296) ||||
 |[1296D](https://codeforces.com/contest/1296/problem/D)|[Fight-with-Monsters](https://github.com/wisdompeak/CodeForces/tree/master/Round_617_Div3/D.Fight-with-Monsters)|M+|math,greedy|
 |[1296E1](https://codeforces.com/contest/1296/problem/E1)|[String-Coloring](https://github.com/wisdompeak/CodeForces/tree/master/Round_617_Div3/E1.String-Coloring)|M+|greedy|
+| [VK_Cup](https://codeforces.com/contest/1310) ||||
+|[1310A](https://codeforces.com/problemset/problem/1310/A)|[Recommendations](https://github.com/wisdompeak/CodeForces/tree/master/VK_Cup/A.Recommendations)|H-|greedy,multiset|
 ||||
-
