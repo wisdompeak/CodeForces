@@ -108,7 +108,7 @@
 | [VK_Cup](https://codeforces.com/contest/1310) ||||
 |[1310A](https://codeforces.com/problemset/problem/1310/A)|[Recommendations](https://github.com/wisdompeak/CodeForces/tree/master/VK_Cup/A.Recommendations)|H-|greedy,multiset|
 | [Round_675_Div2](https://codeforces.com/contest/1422) ||||
-|[1422D](https://codeforces.com/contest/1422/problem/D)|[.Returning-Home](https://github.com/wisdompeak/CodeForces/tree/master/Round_675_Div2/D.Returning-Home)|H|Dijkstra|
+|[1422D](https://codeforces.com/contest/1422/problem/D)|[Returning-Home](https://github.com/wisdompeak/CodeForces/tree/master/Round_675_Div2/D.Returning-Home)|H|Dijkstra|
 ||||
 
 
